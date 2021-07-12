@@ -1,0 +1,7 @@
+brushes 
+colors
+color plates
+white sheet
+pencil
+scale
+eraser

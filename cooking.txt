@@ -1,0 +1,6 @@
+plates
+glass
+cup
+fruits
+vegetables
+spoon
